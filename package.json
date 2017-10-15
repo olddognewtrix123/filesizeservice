@@ -1,0 +1,27 @@
+{
+  "name": "getfilesize",
+  "version": "1.0.0",
+  "description": "free code camp get file size",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "free",
+    "code",
+    "camp",
+    "file",
+    "size"
+  ],
+  "author": "John Gillespie",
+  "license": "ISC"
+}
